@@ -1,0 +1,27 @@
+  .Title{
+  font-family: 'Indie flower';
+    text-align: center;
+    background-color: yellow;
+    color:black;
+  }
+.Paragraph{
+  font-family: 'Times new roman';
+  font-size:;
+  color:blue;
+  background-color:;
+}
+
+.Floatleft{
+  float:left;
+}
+.Floatright{
+  float:right;
+}
+.floatmiddle{
+  float:inline-start;
+}
+.Margin{
+  margin:20px 250px 20px;
+}
+.Marginp{
+  margin:10px 300px 10px;
